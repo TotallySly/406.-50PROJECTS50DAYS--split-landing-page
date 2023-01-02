@@ -1,4 +1,4 @@
-## 407.- 50 Projects 50 Days - Hidden Search Widget
+## 407.- 50 Projects 50 Days - Split Landing Page
 
 ### What was the project about?
 
